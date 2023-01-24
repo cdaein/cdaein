@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Daeinc, an artist and designer.
+- I create open source tools and examples for creative coding.
 - You can find my generative art on [fxhash](https://www.fxhash.xyz/u/Daeinc).
